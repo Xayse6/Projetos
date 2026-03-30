@@ -95,3 +95,19 @@ npx expo install react-native-screens react-native-safe-area-context
 
 #Instalação da navegação em pilha (stack)
 npm install @react-navigation/stack
+
+
+
+
+
+
+#Git
+
+git config --global --list
+
+git config --global user.name Xayse6
+git config --global user.email xays3mpena@gmail.com
+
+
+git config --global --unset user.nome
+git config --global --unset user.email
